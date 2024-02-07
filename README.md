@@ -1,7 +1,5 @@
 # Prodigy_DS_02
 
-####Task_DS_02
-
 #### Titanic Dataset Analysis 🚢📊
 
 This repository contains a Python script utilizing Pandas, Matplotlib, and Seaborn to analyze and visualize the Titanic dataset. 
